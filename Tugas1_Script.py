@@ -1,0 +1,10 @@
+strip='-'*35
+print(strip)
+print("Tugas 1 SISOP Kelas-B")
+print(strip)
+print("Nama: Fitri Indah Sari")
+print("NPM : 21083010025")
+print(strip)
+print("notes:")
+print("Halo dunia!")
+print("Ini adalah skrip Python pertamaku di Linux")
